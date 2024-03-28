@@ -1,0 +1,1 @@
+Configurando meu ambiente para a disciplina de Estrutura de Dados
